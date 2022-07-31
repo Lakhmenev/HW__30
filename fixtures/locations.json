@@ -1,0 +1,82 @@
+[
+    {
+        "pk": 11,
+        "model": "authentication.user.location",
+        "fields": {
+            "user_id": 11,
+            "location_id": 1
+        }
+    },
+    {
+        "pk": 2,
+        "model": "authentication.user.location",
+        "fields": {
+            "user_id": 2,
+            "location_id": 3
+        }
+    },
+    {
+        "pk": 3,
+        "model": "authentication.user.location",
+        "fields": {
+            "user_id": 3,
+            "location_id": 8
+        }
+    },
+    {
+        "pk": 4,
+        "model": "authentication.user.location",
+        "fields": {
+            "user_id": 4,
+            "location_id": 10
+        }
+    },
+    {
+        "pk": 5,
+        "model": "authentication.user.location",
+        "fields": {
+            "user_id": 5,
+            "location_id": 2
+        }
+    },
+    {
+        "pk": 6,
+        "model": "authentication.user.location",
+        "fields": {
+            "user_id": 6,
+            "location_id": 4
+        }
+    },
+    {
+        "pk": 7,
+        "model": "authentication.user.location",
+        "fields": {
+            "user_id": 7,
+            "location_id": 7
+        }
+    },
+    {
+        "pk": 8,
+        "model": "authentication.user.location",
+        "fields": {
+            "user_id": 8,
+            "location_id": 5
+        }
+    },
+    {
+        "pk": 9,
+        "model": "authentication.user.location",
+        "fields": {
+            "user_id": 9,
+            "location_id": 9
+        }
+    },
+    {
+        "pk": 10,
+        "model": "authentication.user.location",
+        "fields": {
+            "user_id": 10,
+            "location_id": 6
+        }
+    }
+]
